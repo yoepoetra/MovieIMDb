@@ -11,7 +11,7 @@
     "axios": "^0.18.1",
     "buefy": "^0.8.6",
     "bulma": "^0.8.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "vue": "^2.5.22",
     "vue-router": "^3.0.2",
